@@ -1,2 +1,2 @@
 # Analyzing-NYSE-Data
-In this project I analyzed real-life data from the New York Stock Exchange using a subset of a large dataset provided by Kaggle that contains historical financial data from S&amp;P 500 companies.
+In this project I analyzed real-life data from the New York Stock Exchange using a subset of a large dataset provided by Kaggle that contains historical financial data from S&amp;P 500 companies. I aimed to demonstrate my process of calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. My goal was to perform an analysis and create visual tools to communicate the results in informative ways.
